@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Food Ordering</string>
+
+    <string name="Heading1">Order for Food</string>
+    <string name="Heading2">Easy Payment</string>
+    <string name="Heading3">Fast Delivery</string>
+
+
+    <string name="Welcome_line">Welcome to a world where every craving finds its match with just a tap!. Let\'s embark on a flavorful journey together!</string>
+    <string name="Onboard_1">Get ready to tantalize your taste buds with our seamless food ordering experience. Let\'s make your cravings a delicious reality.</string>
+    <string name="Onboard_2">"Simplify your transactions and breeze through checkout effortlessly with our Easy Payment feature. Enjoy hassle-free payments like never before!"</string>
+    <string name="Onboard_3">Experience the thrill of lightning-fast delivery, bringing your cravings to your doorstep in record time!</string>
+</resources>
